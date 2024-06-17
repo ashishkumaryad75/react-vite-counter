@@ -4,3 +4,10 @@
   padding: 2rem;
   text-align: center;
 }
+
+.counter {
+  font-weight: 600;
+  margin: 20px;
+  height: 50px;
+  width: 120px;
+}
